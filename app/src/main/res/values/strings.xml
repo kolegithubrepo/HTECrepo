@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HTEC</string>
+    <string name="Loading">Loading...</string>
+    <string name="Error_RequestMessage">Connection problem!</string>
+</resources>
